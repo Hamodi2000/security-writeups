@@ -15,7 +15,7 @@
 
 Command used:
 
-nmap -A -p- <IP>
+Nmap scan - nmap -A -sV -T5 -p- <IP>
 
 Important results:
 
